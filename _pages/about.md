@@ -17,14 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a senior undergraduate student at Central South University (CSU). I have secured a spot for a Direct Ph.D. program at the Institute of Software, Chinese Academy of Sciences (ISCAS) through the academic recommendation process.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I was awarded the First-Class Scholarship and the Corporate Scholarship at Central South University. My competitive achievements include the National First Prize in the RoboCup China Open Intelligent Vehicle Challenge (2025), along with two other national-level, one regional-level, and one provincial-level competition awards.
+
+I previously served as a member of the Student Union Standing Committee for the School of Electronic Information Engineering at CSU, and as the Cohort Leader for the 2022 cohort.
+
+My research interest includes Vison Language Model, Reinfore Learning and Embodied AI. 
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 I have been successfully recommended and admitted into the direct doctoral program at the Institute of Software, University of Chinese Academy of Sciences (UCAS).
+- *2025.05*: &nbsp;🎉🎉 My team and I won Third Prize in the Central China Regional Final of the China Undergraduate Service Outsourcing Innovation and Entrepreneurship Competition.
+- *2024.11*: &nbsp;🎉🎉 My team and I achieved the National Championship in the RoboCup China Open Autonomous Driving Challenge. 
+- *2024.05*: &nbsp;🎉🎉 My team and I awarded Second Prize (National Level) in the RoboCup China Open Rescue Simulation Compition. 
 
 # 📝 Publications 
 
@@ -43,16 +50,20 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* Awarded the title of Outstanding Student Cadre by Central South University.
+- *2025.05* Awarded the title of Excellent Communist Youth League Cadre by Central South University.
+- *2025.05* Won Third Prize in the Central China Regional Final of the China Undergraduate Service Outsourcing Innovation and Entrepreneurship Competition. 
+- *2024.11* Achieved the National Championship in the RoboCup China Open Autonomous Driving Challenge. 
+- *2024.05* Awarded Second Prize (National Level) in the RoboCup China Open Rescue Simulation Compition. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09 - 2031.06 (predicted)*, Direct Ph.D. Student in Software Engineering at the Chinese Academy of Sciences (CAS), Institute of Software (ISCAS). 
+- *2022.09 - 2026.06 (now)*, B.S. in Electronic Information Science and Technology from Central South University (CSU). 
 
-# 💬 Invited Talks
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
