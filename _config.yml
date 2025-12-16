@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zihao Ma(马子皓)"
-  avatar           : "images/mazihao photo.jpg" # e.g., "images/avatar.jpg"
+  avatar           : "images/mazihao_photo.jpg" # e.g., "images/avatar.jpg"
   bio              : "Central South University"
   location         : "Beijing, China"
   employer         :
