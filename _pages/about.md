@@ -35,15 +35,15 @@ My research interest includes Vison Language Model, Reinfore Learning and Embodi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/MLPF-Net_04(1).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MLPF-Net: Multi-level Progressive Fusion and Cross-Domain Attention Network for Multi-modality Image Fusion]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Tongxin Wang, **Zihao Ma**, Wentai Lei & Tao Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We proposed a novel framework, MLPF-Net, to address challenges in cross-modal feature integration and noise suppression, consistently achieving state-of-the-art performance across multiple benchmarks. 
 </div>
 </div>
 
