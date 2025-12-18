@@ -35,7 +35,7 @@ My research interest includes Vison Language Model, Reinfore Learning and Embodi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/MLPF-Net_04(1).png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/MLPF-Net_architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MLPF-Net: Multi-level Progressive Fusion and Cross-Domain Attention Network for Multi-modality Image Fusion]()
@@ -47,7 +47,7 @@ Tongxin Wang, **Zihao Ma**, Wentai Lei & Tao Zhang
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2025.11* Awarded the title of Outstanding Student Cadre by Central South University.
